@@ -1,0 +1,16 @@
+/* TEAM */
+Developer: Ahmed Abdel Ghaffar (AhmedDevly)
+Website: https://ahmeddevly-links.vercel.app/
+Contact: mailto:ahmeddevly@gmail.com
+From: Cairo, Egypt
+
+/* SITE */
+Last-Update: 2026-01-14
+Language: en
+Technology: HTML, CSS, JavaScript
+Hosted-On: Vercel
+
+/* PROFILES */
+GitHub: https://github.com/ahmeddevly
+LinkedIn: https://www.linkedin.com/in/ahmeddevly/
+YouTube: https://www.youtube.com/@ahmeddevly
