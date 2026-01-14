@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://ahmeddevly-links.vercel.app/sitemap.xml
+Host: ahmeddevly-links.vercel.app
