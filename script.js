@@ -1,6 +1,6 @@
 const translations = {
     en: {
-        jobTitle: "Full Stack Web Developer & Technical Consultant",
+        jobTitle: "Full Stack Web Developer & WordPress Developer",
         bio: "Building practical web solutions with performance, SEO, and user experience in mind. Founder of AhmedDevly, helping clients connect code, content, and brand.",
         grid: "Grid",
         list: "List",
@@ -8,7 +8,7 @@ const translations = {
         langBtn: "عربي"
     },
     ar: {
-        jobTitle: "مطور ويب متكامل ومستشار تقني",
+        jobTitle: "Full Stack Web Developer & WordPress Developer",
         bio: "بناء حلول ويب عملية مع التركيز على الأداء، السيو، وتجربة المستخدم. مؤسس AhmedDevly، أساعد العملاء على ربط الكود بالمحتوى والعلامة التجارية.",
         grid: "شبكة",
         list: "قائمة",
