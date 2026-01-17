@@ -4,7 +4,7 @@
   <img src="https://unavatar.io/github/ahmeddevly" alt="Ahmed Abdel Ghaffar" width="120" style="border-radius: 50%; border: 3px solid #38bdf8;">
   
   ### **Ahmed Abdel Ghaffar**
-  **Full Stack Web Developer & Technical Consultant**
+  **Full Stack Web Developer & WordPress Developer**
   
   [![Website](https://img.shields.io/badge/Website-AhmedDevly-38bdf8?style=for-the-badge&logo=vercel)](https://ahmeddevly-links.vercel.app/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077b5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ahmeddevly)
@@ -18,7 +18,7 @@
 ---
 
 ## 🌟 Overview
-This is a high-performance, SEO-optimized personal link tree and digital business card. Designed for developers and technical consultants to showcase their online presence in one place.
+This is a high-performance, SEO-optimized personal link tree and digital business card.
 
 ### ✨ Key Features
 - 🌗 **Triple Theme Engine**: Smooth transition between Light, Dark, and System modes.
